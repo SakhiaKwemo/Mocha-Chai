@@ -1,0 +1,15 @@
+{
+  "name": "mocha-chai",
+  "version": "1.0.0",
+  "description": "* [] Testing Intro\r     - What is testing?\r     Ans: Evaluating that a software product or application does what it is supposed to do\r     - Manual vs Automated\r     - Manual (console.log, trial and error)\r     - Automated (assert, mocha, mocha+chai, jest)",
+  "main": "01-math.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
